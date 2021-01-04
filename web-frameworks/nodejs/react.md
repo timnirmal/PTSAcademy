@@ -22,18 +22,30 @@ Intro to React : [https://reactjs.org/tutorial/tutorial.html](https://reactjs.or
 
 ### Create new react app
 
-Follow [this](https://github.com/sliit-foss/zero2hero/blob/master/docs/node/node.md) instructions before run below command. \(Read Below First\)
+Follow [this](https://github.com/sliit-foss/zero2hero/blob/master/docs/node/node.md) instructions before run below command.
 
 `yarn create react-app myapp`
 
 {% hint style="info" %}
 First you need to create Folder where you wish to Build your React App.
 
-1. Create Folder as **`MyApp`**
-2. Then Shift + Right Click -&gt; Open PowerShell Window here
+1. Go to the folder where you need to build the app.
+2. Then `Shift + Right Click -> Open PowerShell Window here`
 {% endhint %}
 
+![Code will end with printing this](../../.gitbook/assets/image%20%281%29.png)
 
+```aspnet
+cd myapp
+code .
+yarn start
+```
+
+{% hint style="info" %}
+`code .` will open VS Code
+{% endhint %}
+
+![localhost:3000 will be opned in browser](../../.gitbook/assets/image%20%282%29.png)
 
 
 

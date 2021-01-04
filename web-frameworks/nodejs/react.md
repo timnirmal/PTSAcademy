@@ -30,11 +30,8 @@ Follow [this](https://github.com/sliit-foss/zero2hero/blob/master/docs/node/node
 First you need to create Folder where you wish to Build your React App.
 {% endhint %}
 
-Create Folder 
-
-'so'
-
-
+1. Create Folder as **`MyApp`**
+2. Then Shift + Right Click -&gt; Open PowerShell Window here
 
 
 

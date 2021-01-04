@@ -7,7 +7,7 @@
 
 [What is a RESTful API? \| Creating a REST API with Node.js](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)
 
-### \#Install Node and npm
+### Install Node and npm
 
 First of all download LST version of node from [here](https://nodejs.org/en/) and install.
 
@@ -22,6 +22,8 @@ First of all download LST version of node from [here](https://nodejs.org/en/) an
 ### Install Angular CLI
 
 `npm install -g @angular/cli`
+
+![](../../.gitbook/assets/image.png)
 
 ### How to start development of any JavaScript App?
 

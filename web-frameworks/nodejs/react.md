@@ -33,7 +33,11 @@ First you need to create Folder where you wish to Build your React App.
 2. Then `Shift + Right Click -> Open PowerShell Window here`
 {% endhint %}
 
-![Code will end with printing this](../../.gitbook/assets/image%20%281%29.png)
+Code will end with printing this.
+
+![](../../.gitbook/assets/image%20%281%29.png)
+
+Then type these codes in PowerShell
 
 ```aspnet
 cd myapp
@@ -44,6 +48,8 @@ yarn start
 {% hint style="info" %}
 `code .` will open VS Code
 {% endhint %}
+
+Browser will open with a window like this.
 
 ![localhost:3000 will be opned in browser](../../.gitbook/assets/image%20%282%29.png)
 
